@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sail by summer/code by winter
 
-
+That's all for now!
