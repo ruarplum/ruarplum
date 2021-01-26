@@ -1,5 +1,6 @@
-### Hi 👋 i'm Ruaraidh (Like Brewery without the B)
+![img](https://www.google.com)
 
+### Hi 👋  i'm Ruaraidh (Like Brewery without the B)
 
 
 Here are some ideas to get you started:
@@ -9,4 +10,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sail by summer/code by winter
 
-That's all for now!
+<!-- Actual text -->
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/RuaraidhLSS_
+[2]: https://www.linkedin.com/in/ruaraidhplummer/
